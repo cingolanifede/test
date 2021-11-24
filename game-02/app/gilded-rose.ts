@@ -1,3 +1,10 @@
+/**
+ * Make code refactor, basically use the same logic structure than the original code.
+ * Remove unnecesary if statement
+ * Create folder with more clear structure (constants && model)
+ * Add test for different use-cases
+ */
+
 import { BACKSTAGE, AGED_BRIE, CONJURED, SULFURAS } from './constants/contants';
 import { Item } from './model/item';
 
